@@ -7,3 +7,6 @@ class xyz{
     
 
 }
+
+var obj=xyz();
+console.log(obj.a);
